@@ -7,7 +7,7 @@ Our team collaboratively designed, developed, and deployed this full-stack web a
 
 ---
 
-## Our Team - grass-touchers 
+## Our Team - Internship_Tracker
 
 | Member Name      | GitHub Username      | Role          |
 |------------------|----------------------|---------------|
