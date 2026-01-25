@@ -11,9 +11,9 @@ Our team collaboratively designed, developed, and deployed this full-stack web a
 
 | Member Name      | GitHub Username      | Role          |
 |------------------|----------------------|---------------|
-| Gaurish Vasireddy|      GaurishHaveFun        | Project Manager   |
-| Allen Chiu       |           allchiu           | Communication Leader and Team Lead    |
-| Shishir Lohar    |          winterblacksmith            | GitHub Captain |
+| Gaurish Vasireddy|      GaurishHaveFun        | Project Manager & Team Lead  |
+| Allen Chiu       |           allchiu           | Communication Leader   |
+| Shishir Lohar    |          winterblacksmith            | Member |
 
 ---
 
