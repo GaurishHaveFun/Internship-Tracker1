@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TZzxOLln)
 # Athens Job/Internship Opportunity Tracker
 
 ##  Overview
@@ -178,7 +177,4 @@ itemSchema.ts
 - I think the project could benefit from more CSS/Tailwind. I felt that some of our UI/UX were kind of barebones in terms of customization. Hopefully, in the future, we can maybe add custom tailwind and CSS components to liven up the frontend and UI/UX. 
 
 - Lastly, I think we could improve on the backend of this project. Some of the API's are quite janky in terms of rate limits and request limits. The LLM API had a token API that we had to work around. I think we could've added some test functions that could help monitor those issues, as most of those API services provide documentation on how add those monitoring (rates/request/token) services. In addition, we could've done a better job of using NextAuth and used auth() instead of useSession(). This would've made our session processing across client and server side much easier and more uniform. 
-
-## Acknowledgements
-- kudos to Dr. Diane Stephens for an invaluable, fun, and eye-opening semester of web-programming 
 
