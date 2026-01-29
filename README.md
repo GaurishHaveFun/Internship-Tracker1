@@ -16,6 +16,12 @@ Our team collaboratively designed, developed, and deployed this full-stack web a
 | Shishir Lohar    |          winterblacksmith            | Member |
 
 ---
+## Screenshots
+
+<img width="1706" height="944" alt="Screenshot 2026-01-29 at 4 00 05 PM" src="https://github.com/user-attachments/assets/4c5252bf-207b-4e9b-b1da-85948563cdbc" />
+<img width="1710" height="946" alt="Screenshot 2026-01-29 at 4 00 15 PM" src="https://github.com/user-attachments/assets/6769e625-abb6-4768-b392-8234f5b07049" />
+<img width="1680" height="943" alt="Screenshot 2026-01-29 at 4 09 49 PM" src="https://github.com/user-attachments/assets/6a0e9bb0-45f8-4b2d-8617-d162118a4a28" />
+<img width="1704" height="943" alt="Screenshot 2026-01-29 at 4 10 30 PM" src="https://github.com/user-attachments/assets/8815e3d3-a053-4aa4-b844-a80e2063ce4b" />
 
 ## Project Features 
 
